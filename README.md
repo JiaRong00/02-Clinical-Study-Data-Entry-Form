@@ -7,5 +7,9 @@ How does it work:
 2) The user has to specify the column number of the last demographic field
 3) The user may opt to add the data entries to an existing dataset. The user will have to supply the csv file containing the existing dataset which has the same data format as the data template
 4) The user may add as many entries using the Tkinter window data entry form generated, until the window is closed
-   <img width="444" alt="image" src="https://github.com/JiaRong00/02-Clinical-Study-Data-Entry-Form/assets/149306287/c389c53d-bcd1-4d0b-8da0-b3e0574e952e">
-5) The entried will be saved into a csv file
+<img width="444" alt="image" src="https://github.com/JiaRong00/02-Clinical-Study-Data-Entry-Form/assets/149306287/c389c53d-bcd1-4d0b-8da0-b3e0574e952e">
+6) The entried will be saved into a csv file
+
+Files:
+1) data_template.csv contains the sample data template
+2) Clinical_data_form.py is the code file
